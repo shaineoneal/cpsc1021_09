@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    //vector<
+    vector<auto> input;
     cout << "Enter four numbers: ";
     cin >> 
 }
